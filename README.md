@@ -21,7 +21,8 @@ When it comes to the definition of Machine Learning, we can say that it is the s
 - (ML_LAB_05) Demonstrate PCA for dimensionality reduction for image data with :
   - Demonstrate application of the reduced data for visualization.
   - Demonstrate the process using number of components and percentage of variance as criteria for obtaining the reduced dataset.
-  
+- Demonstration of Linear Discriminant Analysis (LDA) for Dimensionality Reduction
+
   (More Will Be Added Soon)
   
  > Aaqib Ahmad  
