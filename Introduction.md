@@ -6,4 +6,4 @@ When it comes to the definition of Machine Learning, we can say that it is the s
 (Image Credit Below: Google Cloud)
 
 ![Image of Representation](https://storage.googleapis.com/buildcms.google.com.a.appspot.com/images/Theory-Reality.height-380.png)
-> We're living the future so
+> (Image Credit Below: Google Cloud)
