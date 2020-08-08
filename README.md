@@ -9,16 +9,16 @@ When it comes to the definition of Machine Learning, we can say that it is the s
 > (Image Credit: Google Cloud)
 
 ### This repo will contain popular topics of my Machine Learning Lab with Examples for each of them. Few of them are pointed out as follows:
-- Starting Data Analyis, Reading Data and Simple Visualizations
-- Supervised Learning :
+- (ML_LAB_01) Starting Data Analyis, Reading Data and Simple Visualizations
+- (ML_LAB_02) Supervised Learning :
   - Demonstrate Naive Bayes Classifier for nominal Data.
   - Demonstrate Naive Bayes Classifier for numeric Data.
   - Demonstrate error using any three metrics and two plots.
-- Demonstrate K Means Algorithm, include the following components : 
+- (ML_LAB_03) Demonstrate K Means Algorithm, include the following components : 
   - At least one plot to visualize the results. 
   - Elbow method for choosing optimum number of clusters.
   - At least one metric for the evaluation of the quality of obtained clusters.
-- Demonstrate PCA for dimensionality reduction for image data with :
+- (ML_LAB_05) Demonstrate PCA for dimensionality reduction for image data with :
   - Demonstrate application of the reduced data for visualization.
   - Demonstrate the process using number of components and percentage of variance as criteria for obtaining the reduced dataset.
   
