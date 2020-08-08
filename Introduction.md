@@ -18,3 +18,10 @@ When it comes to the definition of Machine Learning, we can say that it is the s
   - At least one plot to visualize the results. 
   - Elbow method for choosing optimum number of clusters.
   - At least one metric for the evaluation of the quality of obtained clusters.
+- Demonstrate PCA for dimensionality reduction for image data with :
+  - Demonstrate application of the reduced data for visualization.
+  - Demonstrate the process using number of components and percentage of variance as criteria for obtaining the reduced dataset.
+  
+  (More Will Be Added Soon)
+  
+ > Aaqib Ahmad  
