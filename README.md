@@ -8,7 +8,7 @@ When it comes to the definition of Machine Learning, we can say that it is the s
 ![Image of Representation](https://storage.googleapis.com/buildcms.google.com.a.appspot.com/images/Theory-Reality.height-380.png)
 > (Image Credit: Google Cloud)
 
-### This repo will contain popular topics of Machine Learning with Examples for each of them. Few of them are pointed out as follows:
+### This repo will contain popular topics of my Machine Learning Lab with Examples for each of them. Few of them are pointed out as follows:
 - Starting Data Analyis, Reading Data and Simple Visualizations
 - Supervised Learning :
   - Demonstrate Naive Bayes Classifier for nominal Data.
